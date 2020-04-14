@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="541px" height="105px" viewBox="0 0 541 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#092A5E" stop-opacity="0.75" offset="0%"></stop>
+            <stop stop-color="#092A5E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design-draft-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" opacity="0.200000003" stroke-linejoin="round">
+        <g id="Leaftech-Web-Design" transform="translate(-241.000000, -1305.000000)" stroke="#4A8EDA" stroke-width="2" fill="url(#linearGradient-1)">
+            <g id="Block-3" transform="translate(97.000000, 1202.000000)">
+                <g id="Block-3a" transform="translate(145.000000, 0.000000)">
+                    <g id="Body-text" transform="translate(0.000000, 104.000000)">
+                        <g id="Precision">
+                            <path d="M288.443151,103 L516.281885,103 C517.922492,103 519.396754,101.998196 520.000849,100.472857 L520.000849,100.472857 L539,52.5 L519.98134,2.57601869 C519.390474,1.02499499 517.903148,-3.04892638e-16 516.24339,0 L516.24339,7.10542736e-15 L22.7279517,7.10542736e-15 L22.7279517,4.88498131e-15 C21.0824386,5.18725716e-15 19.6048152,1.0077213 19.0040589,2.53964988 L19.0040589,2.53964988 L0,51 L19.013814,100.435916 C19.6079556,101.980684 21.0921094,103 22.7471964,103 L251.493151,103 L251.493151,98.3685162 C251.493151,97.1041586 252.15871,95.935844 253.239118,95.3036652 L268.222183,86.5366341 C269.302592,85.9044553 270.63371,85.9044553 271.714119,86.5366341 L286.697184,95.3036652 C287.777592,95.935844 288.443151,97.1041586 288.443151,98.3685162 L288.443151,103 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

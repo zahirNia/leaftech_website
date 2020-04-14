@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="54px" viewBox="0 0 48 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Highly_accurate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design-draft-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Leaftech-Web-Design" transform="translate(-538.000000, -263.000000)">
+            <g id="Block-1">
+                <g id="Icons" transform="translate(317.000000, 265.000000)">
+                    <g id="Highly_accurate" transform="translate(223.500000, 0.000000)">
+                        <path d="M24.2092232,-0.0974494518 L41.8634905,10.222708 C43.3701362,11.1034481 44.296875,12.7286796 44.296875,14.4860926 L44.296875,35.1264074 C44.296875,36.8838204 43.3701362,38.5090519 41.8634905,39.389792 L24.2092232,49.7099495 C22.6994516,50.5925168 20.8380484,50.5925168 19.3282768,49.7099495 L1.67400952,39.389792 C0.167363792,38.5090519 -0.759375,36.8838204 -0.759375,35.1264074 L-0.759375,14.4860926 C-0.759375,12.7286796 0.167363792,11.1034481 1.67400952,10.222708 L19.3282768,-0.0974494518 C20.8380484,-0.980016849 22.6994516,-0.980016849 24.2092232,-0.0974494518 Z" id="Mask-Copy-21" stroke="#FFFFFF" stroke-width="1.51875" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <g id="Shape" transform="translate(9.750000, 14.250000)">
+                            <g id="Group-9" transform="translate(0.620565, 0.607500)">
+                                <ellipse id="Oval" fill="#FFFFFF" cx="11.4314516" cy="10.935" rx="2.95005203" ry="2.916"></ellipse>
+                                <ellipse id="Oval-2" stroke="#FFFFFF" stroke-width="1.458" cx="11.4314516" cy="10.935" rx="8.12115609" ry="8.019"></ellipse>
+                                <rect id="Rectangle-5" fill="#FFFFFF" x="10.6939386" y="0" width="1.47502601" height="21.87" rx="0.737513007"></rect>
+                                <rect id="Rectangle-5" fill="#FFFFFF" transform="translate(11.431452, 10.935000) rotate(-270.000000) translate(-11.431452, -10.935000) " x="10.6939386" y="0" width="1.47502601" height="21.87" rx="0.737513007"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

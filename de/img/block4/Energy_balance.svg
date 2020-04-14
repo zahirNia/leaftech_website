@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="55px" viewBox="0 0 49 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24.6263477,1.57373854 L42.8736523,12.1825172 C44.1894408,12.9475019 45,14.3612519 45,15.8912214 L45,37.1087786 C45,38.6387481 44.1894408,40.0524981 42.8736523,40.8174828 L24.6263477,51.4262615 C23.3105592,52.1912462 21.6894408,52.1912462 20.3736523,51.4262615 L2.12634768,40.8174828 C0.810559157,40.0524981 2.19761585e-14,38.6387481 2.19761585e-14,37.1087786 L0,15.8912214 C0,14.3612519 0.810559157,12.9475019 2.12634768,12.1825172 L20.3736523,1.57373854 C21.6894408,0.808753821 23.3105592,0.808753821 24.6263477,1.57373854 Z" id="path-1"></path>
+        <rect id="path-2" x="19" y="0" width="6" height="6" rx="1"></rect>
+        <rect id="path-3" x="19" y="17" width="6" height="6" rx="1"></rect>
+        <rect id="path-4" x="34" y="8" width="6" height="6" rx="1"></rect>
+    </defs>
+    <g id="Design-draft-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Leaftech-Web-Design" transform="translate(-682.000000, -2724.000000)">
+            <g id="Block-4" transform="translate(207.000000, 2636.000000)">
+                <g id="Icons" transform="translate(64.000000, 89.000000)">
+                    <g id="Energy-balance" transform="translate(396.000000, 0.000000)">
+                        <g id="Icon" transform="translate(17.000000, 0.000000)">
+                            <g id="Mask" stroke-linecap="round" stroke-linejoin="round">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <path stroke="#5093DC" stroke-width="1.5" d="M25.0033099,0.925356304 L43.2506145,11.5341349 C44.7977192,12.4336043 45.75,14.0945405 45.75,15.8912214 L45.75,37.1087786 C45.75,38.9054595 44.7977192,40.5663957 43.2506145,41.4658651 L25.0033099,52.0746437 C23.4544753,52.9751188 21.5455247,52.9751188 19.9966901,52.0746437 L1.74938551,41.4658651 C0.202280822,40.5663957 -0.75,38.9054595 -0.75,37.1087786 L-0.75,15.8912214 C-0.75,14.0945405 0.202280822,12.4336043 1.74938551,11.5341349 L19.9966901,0.925356304 C21.5455247,0.0248812319 23.4544753,0.0248812319 25.0033099,0.925356304 Z"></path>
+                            </g>
+                            <g id="Group-23" transform="translate(23.000000, 26.500000) rotate(-90.000000) translate(-23.000000, -26.500000) translate(-3.500000, 14.500000)">
+                                <g id="Group-25" transform="translate(0.000000, 0.400024)">
+                                    <path d="M4.5,2.75 L48.5,2.75" id="Path-5" stroke="#5093DC" stroke-width="1.5"></path>
+                                    <path d="M4.5,19.75 L48.5,19.75" id="Path-5" stroke="#5093DC" stroke-width="1.5"></path>
+                                    <path d="M0.5,10.75 L52.5,10.75" id="Path-5" stroke="#5093DC" stroke-width="1.5"></path>
+                                    <g id="Rectangle-16">
+                                        <use fill="#5093DC" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                        <rect stroke="#FFFFFF" stroke-width="1.5" x="18.25" y="-0.75" width="7.5" height="7.5" rx="1"></rect>
+                                    </g>
+                                    <g id="Rectangle-16">
+                                        <use fill="#5093DC" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                        <rect stroke="#FFFFFF" stroke-width="1.5" x="18.25" y="16.25" width="7.5" height="7.5" rx="1"></rect>
+                                    </g>
+                                    <g id="Rectangle-16">
+                                        <use fill="#5093DC" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                        <rect stroke="#FFFFFF" stroke-width="1.5" x="33.25" y="7.25" width="7.5" height="7.5" rx="1"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

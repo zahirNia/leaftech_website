@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="53px" viewBox="0 0 47 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.5318433,0.551238987 L40.9681567,10.7439871 C42.2254657,11.4789724 43,12.8372813 43,14.3072519 L43,34.6927481 C43,36.1627187 42.2254657,37.5210276 40.9681567,38.2560129 L23.5318433,48.448761 C22.2745343,49.1837463 20.7254657,49.1837463 19.4681567,48.448761 L2.03184334,38.2560129 C0.774534306,37.5210276 2.09994404e-14,36.1627187 2.09994404e-14,34.6927481 L0,14.3072519 C0,12.8372813 0.774534306,11.4789724 2.03184334,10.7439871 L19.4681567,0.551238987 C20.7254657,-0.183746329 22.2745343,-0.183746329 23.5318433,0.551238987 Z" id="path-1"></path>
+    </defs>
+    <g id="Design-draft-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Leaftech-Web-Design" transform="translate(-177.000000, -3389.000000)">
+            <g id="Block-6" transform="translate(172.000000, 3326.000000)">
+                <g id="Increased" transform="translate(0.000000, 65.000000)">
+                    <g id="Icon" transform="translate(7.000000, 0.000000)">
+                        <g id="Mask-Copy-30" stroke-linecap="round" stroke-linejoin="round">
+                            <use fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: multiply;" xlink:href="#path-1"></use>
+                            <path stroke="#4D93DB" stroke-width="1.5" d="M23.9103439,-0.0962463722 L41.3466573,10.0965017 C42.8347024,10.9663685 43.75,12.5715354 43.75,14.3072519 L43.75,34.6927481 C43.75,36.4284646 42.8347024,38.0336315 41.3466573,38.9034983 L23.9103439,49.0962464 C22.4192115,49.9679179 20.5807885,49.9679179 19.0896561,49.0962464 L1.65334273,38.9034983 C0.165297573,38.0336315 -0.75,36.4284646 -0.75,34.6927481 L-0.75,14.3072519 C-0.75,12.5715354 0.165297573,10.9663685 1.65334273,10.0965017 L19.0896561,-0.0962463722 C20.5807885,-0.967917876 22.4192115,-0.967917876 23.9103439,-0.0962463722 Z"></path>
+                        </g>
+                        <rect id="Rectangle-20" fill="#4A8EDA" x="21" y="23" width="1.5" height="26"></rect>
+                        <rect id="Rectangle-20-Copy-4" fill="#4A8EDA" x="12" y="29" width="1.5" height="16"></rect>
+                        <rect id="Rectangle-20-Copy-5" fill="#4A8EDA" x="30.3431458" y="18" width="1.5" height="27"></rect>
+                        <g id="Group-18-Copy" transform="translate(13.242641, 31.242641) rotate(-315.000000) translate(-13.242641, -31.242641) translate(10.242641, 28.242641)" fill="#4A8EDA">
+                            <rect id="Rectangle-20-Copy-2" x="0" y="1" width="1.5" height="4.96077312" rx="0.75"></rect>
+                            <rect id="Rectangle-20-Copy-3" transform="translate(2.722804, 1.507583) rotate(-90.000000) translate(-2.722804, -1.507583) " x="1.97280404" y="-0.972804041" width="1.5" height="4.96077312" rx="0.75"></rect>
+                        </g>
+                        <g id="Group-18-Copy-2" transform="translate(31.642543, 20.242641) rotate(-315.000000) translate(-31.642543, -20.242641) translate(28.642543, 17.242641)" fill="#4A8EDA">
+                            <rect id="Rectangle-20-Copy-2" x="0" y="1" width="1.5" height="4.96077312" rx="0.75"></rect>
+                            <rect id="Rectangle-20-Copy-3" transform="translate(2.722804, 1.507583) rotate(-90.000000) translate(-2.722804, -1.507583) " x="1.97280404" y="-0.972804041" width="1.5" height="4.96077312" rx="0.75"></rect>
+                        </g>
+                        <g id="Group-18-Copy-2" transform="translate(22.242641, 25.242641) rotate(-315.000000) translate(-22.242641, -25.242641) translate(19.242641, 22.242641)" fill="#4A8EDA">
+                            <rect id="Rectangle-20-Copy-2" x="0" y="1" width="1.5" height="4.96077312" rx="0.75"></rect>
+                            <rect id="Rectangle-20-Copy-3" transform="translate(2.722804, 1.507583) rotate(-90.000000) translate(-2.722804, -1.507583) " x="1.97280404" y="-0.972804041" width="1.5" height="4.96077312" rx="0.75"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

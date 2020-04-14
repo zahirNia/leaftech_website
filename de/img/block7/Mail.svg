@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="38px" viewBox="0 0 34 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design-draft-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Leaftech-Web-Design" transform="translate(-594.000000, -4515.000000)" stroke="#FFFFFF">
+            <g id="Block-8" transform="translate(0.000000, 4030.000000)">
+                <g id="Leaftech-contact-&amp;-description" transform="translate(533.000000, 361.000000)">
+                    <g id="Contact" transform="translate(63.000000, 126.000000)">
+                        <g id="Mail">
+                            <path d="M16.6814386,-0.071375205 L28.8463084,7.00114388 C29.8854221,7.60527293 30.525,8.72080329 30.525,9.92748092 L30.525,24.0725191 C30.525,25.2791967 29.8854221,26.3947271 28.8463084,26.9988561 L16.6814386,34.0713752 C15.6411141,34.6762083 14.3588859,34.6762083 13.3185614,34.0713752 L1.1536916,26.9988561 C0.114577937,26.3947271 -0.525,25.2791967 -0.525,24.0725191 L-0.525,9.92748092 C-0.525,8.72080329 0.114577937,7.60527293 1.1536916,7.00114388 L13.3185614,-0.071375205 C14.3588859,-0.676208265 15.6411141,-0.676208265 16.6814386,-0.071375205 Z" id="Mask-Copy-38" stroke-width="1.05" transform="translate(15.000000, 17.000000) rotate(-180.000000) translate(-15.000000, -17.000000) "></path>
+                            <g id="Group-24" transform="translate(8.372093, 9.714286)">
+                                <g id="Group-25">
+                                    <polyline id="Path-7" stroke-width="1.05" fill="#4A8EDA" points="0 5.55102041 6.97674419 0 13.9534884 5.55102041"></polyline>
+                                    <rect id="Rectangle-24" stroke-width="1.05" fill="#4A8EDA" x="2.44186047" y="0" width="9.06976744" height="13.1836735"></rect>
+                                    <polygon id="Rectangle-25" stroke-width="1.05" fill="#4A8EDA" points="0 5.55102041 6.97674419 10.4081633 13.9534884 5.55102041 13.9534884 14.2244898 0 14.2244898"></polygon>
+                                    <path d="M4.18604651,2.42857143 L5.58139535,2.42857143" id="Path-6" stroke-width="0.7"></path>
+                                    <path d="M4.18604651,3.81632653 L9.76744186,3.81632653" id="Path-6" stroke-width="0.7"></path>
+                                    <path d="M4.18604651,5.20408163 L9.76744186,5.20408163" id="Path-6-Copy" stroke-width="0.7"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

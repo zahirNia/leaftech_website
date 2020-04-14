@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="55px" viewBox="0 0 49 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26.7084363,1.57847284 L45.0165659,12.2747916 C46.3367405,13.0460887 47.1500015,14.4715046 47.1500015,16.0140988 L47.1500015,37.4067363 C47.1500015,38.9493305 46.3367405,40.3747464 45.0165659,41.1460435 L26.7084363,51.8423622 C25.3882618,52.6136594 23.7617397,52.6136594 22.4415652,51.8423622 L4.13343558,41.1460435 C2.81326105,40.3747464 2,38.9493305 2,37.4067363 L2,16.0140988 C2,14.4715046 2.81326105,13.0460887 4.13343558,12.2747916 L22.4415652,1.57847284 C23.7617397,0.807175721 25.3882618,0.807175721 26.7084363,1.57847284 Z" id="path-1"></path>
+        <path d="M24.7084363,0.578472838 L43.0165659,11.2747916 C44.3367405,12.0460887 45.1500015,13.4715046 45.1500015,15.0140988 L45.1500015,36.4067363 C45.1500015,37.9493305 44.3367405,39.3747464 43.0165659,40.1460435 L24.7084363,50.8423622 C23.3882618,51.6136594 21.7617397,51.6136594 20.4415652,50.8423622 L2.13343558,40.1460435 C0.813261049,39.3747464 2.20494131e-14,37.9493305 2.20494131e-14,36.4067363 L0,15.0140988 C0,13.4715046 0.813261049,12.0460887 2.13343558,11.2747916 L20.4415652,0.578472838 C21.7617397,-0.192824279 23.3882618,-0.192824279 24.7084363,0.578472838 Z" id="path-2"></path>
+        <circle id="path-4" cx="11.5" cy="11.5" r="11.5"></circle>
+    </defs>
+    <g id="Design-draft-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Leaftech-Web-Design" transform="translate(-291.000000, -2724.000000)">
+            <g id="Block-4" transform="translate(207.000000, 2636.000000)">
+                <g id="Icons" transform="translate(64.000000, 89.000000)">
+                    <g id="Solar-Radiation">
+                        <g id="Icon" transform="translate(20.000000, 0.000000)">
+                            <g id="Mask-Copy-9" stroke-linecap="round" stroke-linejoin="round">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <path stroke="#5093DC" stroke-width="1.5" d="M27.086777,0.930894 L45.3949066,11.6272127 C46.9458777,12.5333502 47.9000015,14.2056585 47.9000015,16.0140988 L47.9000015,37.4067363 C47.9000015,39.2151766 46.9458777,40.8874849 45.3949066,41.7936223 L27.086777,52.4899411 C25.5328598,53.3977997 23.6171418,53.3977997 22.0632245,52.4899411 L3.75509493,41.7936223 C2.2041238,40.8874849 1.25,39.2151766 1.25,37.4067363 L1.25,16.0140988 C1.25,14.2056585 2.2041238,12.5333502 3.75509493,11.6272127 L22.0632245,0.930894 C23.6171418,0.0230353335 25.5328598,0.0230353335 27.086777,0.930894 Z"></path>
+                            </g>
+                            <g id="Sun" transform="translate(2.000000, 1.000000)">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Group-27" mask="url(#mask-3)" stroke-linecap="round" stroke-linejoin="round">
+                                    <g transform="translate(11.000000, 38.000000)" id="Oval-9">
+                                        <circle stroke="#FFFFFF" stroke-width="3" cx="11.5" cy="11.5" r="13"></circle>
+                                        <g stroke="none">
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                            <circle stroke="#5093DC" stroke-width="1.5" cx="11.5" cy="11.5" r="12.25"></circle>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Rays" fill="#5093DC">
+                                <rect id="Rectangle-21" transform="translate(39.450012, 26.500000) rotate(-330.000000) translate(-39.450012, -26.500000) " x="38.7000122" y="11" width="1.5" height="31"></rect>
+                                <rect id="Rectangle-21" transform="translate(32.450012, 23.000000) rotate(-345.000000) translate(-32.450012, -23.000000) " x="31.7000122" y="6" width="1.5" height="34"></rect>
+                                <rect id="Rectangle-21" transform="translate(41.450012, 36.500000) rotate(-315.000000) translate(-41.450012, -36.500000) " x="40.7000122" y="27" width="1.5" height="19"></rect>
+                                <rect id="Rectangle-21" x="23.7000122" y="0" width="1.5" height="39"></rect>
+                                <rect id="Rectangle-21" transform="translate(9.549988, 26.500000) scale(-1, 1) rotate(-330.000000) translate(-9.549988, -26.500000) " x="8.79998779" y="11" width="1.5" height="31"></rect>
+                                <rect id="Rectangle-21" transform="translate(16.549988, 23.000000) scale(-1, 1) rotate(-345.000000) translate(-16.549988, -23.000000) " x="15.7999878" y="6" width="1.5" height="34"></rect>
+                                <rect id="Rectangle-21" transform="translate(7.549988, 36.500000) scale(-1, 1) rotate(-315.000000) translate(-7.549988, -36.500000) " x="6.79998779" y="27" width="1.5" height="19"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
